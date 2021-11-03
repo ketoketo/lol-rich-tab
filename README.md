@@ -6,7 +6,7 @@ League of Legendsの試合中のデータを表示するソフトウェアです
 
 
 ### ダウンロード
-**[Download lol-rich-tab](https://github.com/ketoketo/lol-rich-tab/releases/download/v1.0.0/RichTab.zip)**
+**[Download lol-rich-tab](https://github.com/ketoketo/lol-rich-tab/releases/download/v1.0.0/RichTab.exe)**
 
 
 ### 使い方
